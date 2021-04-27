@@ -91,7 +91,7 @@ function end(score)
   }
   else
   {
-    message = "need to Get on top of your GK";
+    message = "need to work on your GK";
   }
 
   console.log(`Thank you for playing the quiz. Your score is ${score} and you ${message}`)
